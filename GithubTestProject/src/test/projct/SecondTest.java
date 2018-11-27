@@ -9,6 +9,7 @@ public class SecondTest {
 		int results =a+b;
 		
 		System.out.println(results);
+		System.out.println(a);
 
 	}
 
